@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Wanted Poster</title>
+</head>
+<body>
+
+<h1>WANTED</h1>
+<h2>Johnny Davidson</h2>
+<h3><u>Wanted for robbing large amounts of money from the bank.</u></h3>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Jack_Ruby_1963_Mugshot_Extracted.jpg" alt="Photo of the Suspect" width="300">
+
+<ul>
+<li><strong>Height:</strong> 6'0"</li>
+<li><strong>Hair Colour:</strong> Brown</li>
+<li><strong>Eye Colour:</strong> Brown</li>
+<li><strong>Last Seen:</strong> At Chick-Fil-A</li>
+</ul>
+
+<h3>Cash reward: $10000</h3>
+
+</body>
+</html>
